@@ -1,0 +1,10 @@
+AtlasFlow AI
+Copyright 2026 Mohamed Aziz Aydi
+
+This product includes software developed from the Multi-Agent System using
+LangGraph, MCP, Supervisor, Guardrails, and HITL project by entbappy:
+https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
+
+The upstream work and this derivative are distributed under the Apache License,
+Version 2.0. AtlasFlow modifications are identified in the repository history
+and summarized in README.md.
