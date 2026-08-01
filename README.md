@@ -88,11 +88,7 @@ docker run --env-file .env -p 8000:8000 atlasflow-ai
 | `GET` | `/health` | Lightweight liveness check |
 | `GET` | `/ready` | Core configuration readiness check |
 
-## Engineering ownership
 
-AtlasFlow AI is maintained by **Mohamed Aziz Aydi**. This version adds a new project identity, asynchronous API isolation for the synchronous graph, lazy agent startup, strict boundary validation, safe error references, liveness/readiness separation, API tests, continuous integration, container hardening, and updated architecture documentation.
-
-The initial travel-planner foundation was adapted from the Apache-2.0 project by `entbappy`; see [NOTICE](NOTICE). Subsequent modifications are documented through this repository's commit history.
 
 ## License
 
